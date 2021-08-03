@@ -1,0 +1,240 @@
+INFO	2021-08-03 20:26:44,853	1	StartApp	[main]	1.AdminView
+INFO	2021-08-03 20:26:44,855	3	StartApp	[main]	2.PassengerView
+INFO	2021-08-03 20:26:44,855	3	StartApp	[main]	Enter the option 1/2.
+INFO	2021-08-03 20:36:09,907	0	StartApp	[main]	1.AdminView
+INFO	2021-08-03 20:36:09,909	2	StartApp	[main]	2.PassengerView
+INFO	2021-08-03 20:36:09,909	2	StartApp	[main]	Enter the option 1/2.
+INFO	2021-08-03 20:36:12,143	2236	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:36:12,145	2238	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:36:12,145	2238	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:36:12,145	2238	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:36:12,145	2238	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:36:12,146	2239	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:36:12,155	2248	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:36:12,954	3047	Admin	[main]	Enter Bus number
+INFO	2021-08-03 20:36:14,228	4321	Admin	[main]	Enter bus name
+INFO	2021-08-03 20:36:14,851	4944	Admin	[main]	Enter the number of seats
+INFO	2021-08-03 20:36:15,712	5805	Admin	[main]	Your bus details are added successfully
+INFO	2021-08-03 20:36:15,712	5805	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:36:15,712	5805	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:36:15,713	5806	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:36:15,713	5806	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:36:15,713	5806	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:36:15,713	5806	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:36:15,713	5806	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:36:17,558	7651	StartApp	[main]	Bus number doesn't exist
+INFO	2021-08-03 20:36:17,559	7652	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:36:17,560	7653	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:36:17,560	7653	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:36:17,560	7653	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:36:17,560	7653	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:36:17,560	7653	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:36:17,560	7653	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:36:19,575	9668	Admin	[main]	Enter bus number to update
+INFO	2021-08-03 20:36:21,111	11204	Admin	[main]	
+INFO	2021-08-03 20:36:21,112	11205	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:36:21,113	11206	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:36:21,113	11206	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:36:21,113	11206	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:36:21,113	11206	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:36:21,113	11206	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:36:21,113	11206	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:36:29,719	19812	Admin	[main]	Enter bus number to update
+INFO	2021-08-03 20:36:37,949	28042	StartApp	[main]	Bus number exists
+INFO	2021-08-03 20:36:37,950	28043	StartApp	[main]	Enter bus name
+INFO	2021-08-03 20:36:41,336	31429	StartApp	[main]	Enter the number of seats
+INFO	2021-08-03 20:36:42,493	32586	StartApp	[main]	[
+ Bus [number=2, busName=1, numberOfSeats=12]]
+INFO	2021-08-03 20:36:42,495	32588	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:36:42,495	32588	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:36:42,495	32588	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:36:42,495	32588	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:36:42,495	32588	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:36:42,496	32589	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:36:42,496	32589	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:40:30,827	0	StartApp	[main]	1.AdminView
+INFO	2021-08-03 20:40:30,828	1	StartApp	[main]	2.PassengerView
+INFO	2021-08-03 20:40:30,829	2	StartApp	[main]	Enter the option 1/2.
+INFO	2021-08-03 20:40:33,408	2581	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:40:33,408	2581	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:40:33,409	2582	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:40:33,409	2582	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:40:33,409	2582	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:40:33,409	2582	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:40:33,409	2582	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:40:34,188	3361	Admin	[main]	Enter Bus number
+INFO	2021-08-03 20:40:34,723	3896	Admin	[main]	Enter bus name
+INFO	2021-08-03 20:40:35,697	4870	Admin	[main]	Enter the number of seats
+INFO	2021-08-03 20:40:36,599	5772	Admin	[main]	Your bus details are added successfully
+INFO	2021-08-03 20:40:36,599	5772	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:40:36,600	5773	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:40:36,600	5773	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:40:36,600	5773	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:40:36,600	5773	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:40:36,600	5773	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:40:36,600	5773	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:40:38,937	8110	Admin	[main]	Enter bus number to update
+INFO	2021-08-03 20:40:39,825	8998	Admin	[main]	
+INFO	2021-08-03 20:40:39,826	8999	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:40:39,826	8999	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:40:39,826	8999	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:40:39,826	8999	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:40:39,827	9000	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:40:39,827	9000	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:40:39,827	9000	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:50:46,841	0	StartApp	[main]	1.AdminView
+INFO	2021-08-03 20:50:46,843	2	StartApp	[main]	2.PassengerView
+INFO	2021-08-03 20:50:46,843	2	StartApp	[main]	Enter the option 1/2.
+INFO	2021-08-03 20:50:59,512	12671	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:50:59,512	12671	Admin	[main]	1.Create Details 
+INFO	2021-08-03 20:50:59,513	12672	Admin	[main]	2.Delete Details 
+INFO	2021-08-03 20:50:59,513	12672	Admin	[main]	3.Update Details 
+INFO	2021-08-03 20:50:59,513	12672	Admin	[main]	4.View Details 
+INFO	2021-08-03 20:50:59,513	12672	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:51:00,479	13638	Admin	[main]	Enter your phone number
+INFO	2021-08-03 20:51:01,810	14969	Admin	[main]	Enter your name
+INFO	2021-08-03 20:51:03,951	17110	Admin	[main]	Enter the address
+INFO	2021-08-03 20:51:07,152	20311	Admin	[main]	Enter the mail Id
+INFO	2021-08-03 20:51:08,662	21821	Admin	[main]	Your account has been successfully created.
+INFO	2021-08-03 20:51:08,662	21821	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:51:08,662	21821	Admin	[main]	1.Create Details 
+INFO	2021-08-03 20:51:08,662	21821	Admin	[main]	2.Delete Details 
+INFO	2021-08-03 20:51:08,664	21823	Admin	[main]	3.Update Details 
+INFO	2021-08-03 20:51:08,664	21823	Admin	[main]	4.View Details 
+INFO	2021-08-03 20:51:08,664	21823	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:51:11,262	24421	StartApp	[main]	[
+ PassengerAccount [phoneNumber=2, name=hh, address=adc, emailId=ecdx]]
+INFO	2021-08-03 20:51:11,263	24422	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:51:11,263	24422	Admin	[main]	1.Create Details 
+INFO	2021-08-03 20:51:11,263	24422	Admin	[main]	2.Delete Details 
+INFO	2021-08-03 20:51:11,263	24422	Admin	[main]	3.Update Details 
+INFO	2021-08-03 20:51:11,263	24422	Admin	[main]	4.View Details 
+INFO	2021-08-03 20:51:11,263	24422	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:51:15,570	28729	Admin	[main]	Enter your phone number
+INFO	2021-08-03 20:51:18,586	31745	Admin	[main]	Enter your name
+INFO	2021-08-03 20:51:19,997	33156	Admin	[main]	Enter the address
+INFO	2021-08-03 20:51:22,451	35610	Admin	[main]	Enter the mail Id
+WARN	2021-08-03 20:51:24,073	37232	StartApp	[main]	User name already exists
+ERROR	2021-08-03 20:51:24,073	37232	Admin	[main]	UserName already exists
+INFO	2021-08-03 20:51:24,074	37233	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:51:24,074	37233	Admin	[main]	1.Create Details 
+INFO	2021-08-03 20:51:24,074	37233	Admin	[main]	2.Delete Details 
+INFO	2021-08-03 20:51:24,074	37233	Admin	[main]	3.Update Details 
+INFO	2021-08-03 20:51:24,074	37233	Admin	[main]	4.View Details 
+INFO	2021-08-03 20:51:24,074	37233	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:51:28,085	41244	Admin	[main]	Enter the passengerAccount name to remove
+INFO	2021-08-03 20:51:30,046	43205	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:51:30,046	43205	Admin	[main]	1.Create Details 
+INFO	2021-08-03 20:51:30,046	43205	Admin	[main]	2.Delete Details 
+INFO	2021-08-03 20:51:30,046	43205	Admin	[main]	3.Update Details 
+INFO	2021-08-03 20:51:30,046	43205	Admin	[main]	4.View Details 
+INFO	2021-08-03 20:51:30,046	43205	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:51:32,730	45889	StartApp	[main]	[]
+INFO	2021-08-03 20:51:32,730	45889	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:51:32,730	45889	Admin	[main]	1.Create Details 
+INFO	2021-08-03 20:51:32,730	45889	Admin	[main]	2.Delete Details 
+INFO	2021-08-03 20:51:32,730	45889	Admin	[main]	3.Update Details 
+INFO	2021-08-03 20:51:32,730	45889	Admin	[main]	4.View Details 
+INFO	2021-08-03 20:51:32,730	45889	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:51:34,864	48023	Admin	[main]	Enter the passengerAccount name to remove
+WARN	2021-08-03 20:51:36,828	49987	StartApp	[main]	Username doesn't exist
+INFO	2021-08-03 20:51:36,829	49988	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:51:36,829	49988	Admin	[main]	1.Create Details 
+INFO	2021-08-03 20:51:36,829	49988	Admin	[main]	2.Delete Details 
+INFO	2021-08-03 20:51:36,829	49988	Admin	[main]	3.Update Details 
+INFO	2021-08-03 20:51:36,830	49989	Admin	[main]	4.View Details 
+INFO	2021-08-03 20:51:36,830	49989	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:52:15,595	0	StartApp	[main]	1.AdminView
+INFO	2021-08-03 20:52:15,596	1	StartApp	[main]	2.PassengerView
+INFO	2021-08-03 20:52:15,596	1	StartApp	[main]	Enter the option 1/2.
+INFO	2021-08-03 20:52:27,559	11964	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:52:27,559	11964	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:52:27,559	11964	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:52:27,559	11964	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:52:27,559	11964	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:52:27,559	11964	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:52:27,560	11965	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:52:28,303	12708	Admin	[main]	Enter Bus number
+INFO	2021-08-03 20:52:29,195	13600	Admin	[main]	Enter bus name
+INFO	2021-08-03 20:52:32,098	16503	Admin	[main]	Enter the number of seats
+INFO	2021-08-03 20:52:33,587	17992	Admin	[main]	Your bus details are added successfully
+INFO	2021-08-03 20:52:33,587	17992	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:52:33,587	17992	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:52:33,587	17992	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:52:33,587	17992	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:52:33,588	17993	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:52:33,588	17993	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:52:33,588	17993	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:52:36,069	20474	StartApp	[main]	[
+ Bus [number=2, busName=dd, numberOfSeats=23]]
+INFO	2021-08-03 20:52:36,070	20475	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:52:36,071	20476	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:52:36,071	20476	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:52:36,071	20476	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:52:36,071	20476	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:52:36,072	20477	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:52:36,072	20477	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:52:37,205	21610	Admin	[main]	Enter Bus number
+INFO	2021-08-03 20:52:39,792	24197	Admin	[main]	Enter bus name
+INFO	2021-08-03 20:52:42,340	26745	Admin	[main]	Enter the number of seats
+WARN	2021-08-03 20:52:43,774	28179	StartApp	[main]	Bus number already exists
+ERROR	2021-08-03 20:52:43,774	28179	Admin	[main]	Bus number already exists
+INFO	2021-08-03 20:52:43,774	28179	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:52:43,775	28180	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:52:43,775	28180	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:52:43,775	28180	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:52:43,775	28180	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:52:43,775	28180	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:52:43,776	28181	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:52:54,963	39368	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:52:54,964	39369	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:52:54,964	39369	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:52:54,964	39369	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:52:54,964	39369	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:52:54,964	39369	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:52:54,964	39369	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 20:53:01,363	45768	StartApp	[main]	[]
+INFO	2021-08-03 20:53:01,363	45768	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:53:01,364	45769	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:53:01,364	45769	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:53:01,364	45769	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:53:01,364	45769	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:53:01,364	45769	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:53:01,364	45769	Admin	[main]	Enter your choice : 
+WARN	2021-08-03 20:53:04,941	49346	StartApp	[main]	Bus number doesn't exist
+INFO	2021-08-03 20:53:04,941	49346	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 20:53:04,941	49346	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 20:53:04,941	49346	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 20:53:04,941	49346	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 20:53:04,941	49346	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 20:53:04,942	49347	Admin	[main]	5.Exit 
+INFO	2021-08-03 20:53:04,942	49347	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 22:06:21,404	0	StartApp	[main]	1.AdminView
+INFO	2021-08-03 22:06:21,405	1	StartApp	[main]	2.PassengerView
+INFO	2021-08-03 22:06:21,405	1	StartApp	[main]	Enter the option 1/2.
+INFO	2021-08-03 22:06:24,002	2598	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 22:06:24,003	2599	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 22:06:24,004	2600	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 22:06:24,004	2600	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 22:06:24,004	2600	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 22:06:24,004	2600	Admin	[main]	5.Exit 
+INFO	2021-08-03 22:06:24,004	2600	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 22:06:24,969	3565	Admin	[main]	Enter Bus number
+INFO	2021-08-03 22:06:25,583	4179	Admin	[main]	Enter bus name
+INFO	2021-08-03 22:06:26,401	4997	Admin	[main]	Enter the number of seats
+INFO	2021-08-03 22:06:27,254	5850	Admin	[main]	Your bus details are added successfully
+INFO	2021-08-03 22:06:27,254	5850	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 22:06:27,254	5850	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 22:06:27,254	5850	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 22:06:27,255	5851	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 22:06:27,255	5851	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 22:06:27,255	5851	Admin	[main]	5.Exit 
+INFO	2021-08-03 22:06:27,255	5851	Admin	[main]	Enter your choice : 
+INFO	2021-08-03 22:06:30,111	8707	Admin	[main]	Bus number :1 deleted successfully
+INFO	2021-08-03 22:06:30,112	8708	Admin	[main]	#######M E N U#######
+INFO	2021-08-03 22:06:30,112	8708	Admin	[main]	1.Create BusDetails 
+INFO	2021-08-03 22:06:30,112	8708	Admin	[main]	2.Delete BusDetails 
+INFO	2021-08-03 22:06:30,112	8708	Admin	[main]	3.Update BusDetails 
+INFO	2021-08-03 22:06:30,112	8708	Admin	[main]	4.View BusDetails 
+INFO	2021-08-03 22:06:30,112	8708	Admin	[main]	5.Exit 
+INFO	2021-08-03 22:06:30,113	8709	Admin	[main]	Enter your choice : 
